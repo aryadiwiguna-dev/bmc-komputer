@@ -1,0 +1,18 @@
+$body-color-dark:                   #e4e4e7 !default;
+$body-bg-dark:                      #09090b !default;
+
+$body-tertiary-bg-dark:             mix($gray-700, $gray-900, 50%) !default;
+
+$link-color-dark:                   $primary !default;
+
+$border-color-dark:                 #27272a !default;
+
+// $box-shadow-dark:                   0 0 10px 0 rgb(6, 11, 21) !default;
+
+$box-shadow-dark:                  0 .5rem 1rem rgba($black, .35) !default;
+$box-shadow-sm-dark:               0 .125rem .25rem rgba($black, .15) !default;
+$box-shadow-lg-dark:               0 1rem 3rem rgba($black, .5) !default;
+
+// Card
+$card-box-shadow-dark:              3px 0 10px 0 rgba(0, 0, 0, 0.45) !default;
+$card-border-color-dark:            #27272a;
